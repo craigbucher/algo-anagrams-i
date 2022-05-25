@@ -14,4 +14,4 @@ def is_character_match(string1, string2):
 			return('false')
 	return('true')
 
-print(is_character_match('zach', 'attack'))	
+#print(is_character_match('zach', 'attack'))	
