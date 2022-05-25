@@ -17,3 +17,5 @@ exports.isCharacterMatch = function(string1, string2) {
   }	
   return true;
 };
+console.log(exports.isCharacterMatch('zach', 'attack')) // false
+console.log(exports.isCharacterMatch('abcde2', 'c2abed')) // true
